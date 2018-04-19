@@ -1,11 +1,11 @@
 
-# Improving the Standards of Communication in Computational Economics
+# Improving Standards of Communication in Computational Economics
 
 Although computational economics has not (yet) experienced a [replicability crisis](https://en.wikipedia.org/wiki/Replication_crisis) of the scale that has crippled some other fields, any sensible person who has done computationally intensive research will have sometimes had the queasy feeling that many results (in _other_ people's computational work) are probably fragile, and more than a few may even be wrong (because of bugs buried in the sea of vast incomprehensible code that produced the results).
 
 We are in this bad equilibrium because there are few incentives for economists to produce high quality, robust, well-documented code that is usable and testable by others.
 
-This can be fixed -- indeed, the same problem {\it has} largely been fixed in some other fields.
+This can be fixed -- indeed, the same problem _has_ largely been fixed in some other fields.
 
 The academic statistics community, in particular, confronted basically the same set of problems in the mid-90s, which prompted a few statistics professors to form the [Journal of Statistical Software](https://www.jstatsoft.org) (JSS).  (The history of the JSS is recounted quite well in this ["look-back review" presentation](http://gifi.stat.ucla.edu/janspubs/2014/notes/deleeuw_mullen_U_14.pdf) by the founding editor, with many valuable "lessons learned.")
 
